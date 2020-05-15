@@ -1,0 +1,24 @@
+body {
+    background: #000;
+    text-align: center;
+}
+button {
+    float:right;
+}
+#background {
+    fill: #000;
+    stroke: green;
+    stroke-width: 8px;
+}
+#snake {
+    fill:green;
+}
+#zarcie {
+    fill: yellow;
+}
+#info {
+    margin:0 auto;
+    width: 560px;
+    color:green;
+    text-align: left;
+}
